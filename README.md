@@ -9,3 +9,7 @@ Autores:
 # Extra
 
 - Rode `python test.py` para testar se seu computador tem suporte para rodar CUDA e Tensorflow.
+- Pacotes necessários:
+    - `sentencepiece`;
+    - `python-transformers`;
+    - `python-sentencepiece`.
