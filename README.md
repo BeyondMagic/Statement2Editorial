@@ -12,4 +12,5 @@ Autores:
 - Pacotes necessários:
     - `sentencepiece`;
     - `python-transformers`;
-    - `python-sentencepiece`.
+    - `python-sentencepiece`;
+    - `python-accelerate`.
